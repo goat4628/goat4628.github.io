@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown grammar practice"
+title:  "Markdown grammar practice - part 1"
 date:   2022-03-03 19:00:00 +0900
 categories: jekyll update
 ---
